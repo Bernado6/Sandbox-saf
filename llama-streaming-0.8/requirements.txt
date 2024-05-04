@@ -1,0 +1,7 @@
+llama-index==0.8.35
+pypdf==3.16.4
+transformers==4.34.1
+torchvision==0.16.0
+langchain==0.0.317
+langsmith==0.0.49
+openai==0.28.0
